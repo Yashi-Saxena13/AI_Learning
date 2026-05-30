@@ -1,0 +1,72 @@
+[
+    {
+        "claim_id": "1",
+        "description": "My car was rear-ended while waiting at a traffic signal. The other driver admitted fault.",
+        "claim_type": "motor",
+        "tone": "calm",
+        "legal_action": "no"
+    },
+    {
+        "claim_id": "2",
+        "description": "Heavy rain caused water to enter my basement and damage furniture.",
+        "claim_type": "property",
+        "tone": "calm",
+        "legal_action": "no"
+    },
+    {
+        "claim_id": "3",
+        "description": "A customer slipped on a wet floor in my store and suffered an injury.",
+        "claim_type": "liability",
+        "tone": "calm",
+        "legal_action": "no"
+    },
+    {
+        "claim_id": "4",
+        "description": "Someone broke into my parked vehicle and stole my laptop.",
+        "claim_type": "property",
+        "tone": "calm",
+        "legal_action": "no"
+    },
+    {
+        "claim_id": "5",
+        "description": "A tree fell on my garage during last night's storm.",
+        "claim_type": "property",
+        "tone": "calm",
+        "legal_action": "no"
+    },
+    {
+        "claim_id": "6",
+        "description": "The contractor damaged my neighbor's fence while working on my property.",
+        "claim_type": "liability",
+        "tone": "calm",
+        "legal_action": "no"
+    },
+    {
+        "claim_id": "7",
+        "description": "I have called three times already and nobody has responded. My vehicle is unusable and I need help immediately.",
+        "claim_type": "motor",
+        "tone": "frustrated",
+        "legal_action": "no"
+    },
+    {
+        "claim_id": "8",
+        "description": "The kitchen pipe burst and flooded part of the house.",
+        "claim_type": "property",
+        "tone": "calm",
+        "legal_action": "no"
+    },
+    {
+        "claim_id": "9",
+        "description": "If this matter is not resolved soon, I will consult my attorney and consider legal action.",
+        "claim_type": "other",
+        "tone": "frustrated",
+        "legal_action": "yes"
+    },
+    {
+        "claim_id": "10",
+        "description": "There was damage during the incident, but I am not sure whether it was caused by the delivery truck or by the storm.",
+        "claim_type": "liability",
+        "tone": "calm",
+        "legal_action": "no"
+    }
+]
